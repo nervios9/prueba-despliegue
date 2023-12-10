@@ -1,0 +1,10 @@
+# Ignorar archivos temporales
+*.tmp
+*.temp
+
+# Ignorar archivos de compilación
+/build/
+/dist/
+
+# Ignorar archivos de dependencias (ejemplo: Node.js)
+/node_modules/
